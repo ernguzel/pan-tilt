@@ -14,7 +14,7 @@ frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
 center_x = frame_width // 2
 center_y = frame_height // 2
 
-# Hassasiyet threshold'u
+# Hassasiyet threshold'u fesjkfsef
 threshold = 15
 
 while True:
